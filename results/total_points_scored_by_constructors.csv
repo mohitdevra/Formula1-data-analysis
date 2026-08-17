@@ -1,0 +1,176 @@
+"constructorRef","name","nationality","total_points"
+ferrari,Ferrari,Italian,10349
+red_bull,Red Bull,Austrian,7836
+mercedes,Mercedes,German,7690
+mclaren,McLaren,British,7055
+williams,Williams,British,3642
+renault,Renault,French,1777
+force_india,Force India,Indian,1098
+team_lotus,Team Lotus,British,918
+benetton,Benetton,Italian,861
+lotus_f1,Lotus F1,British,706
+tyrrell,Tyrrell,British,621
+brabham,Brabham,British,595
+sauber,Sauber,Swiss,561
+alpine,Alpine F1 Team,French,513
+aston_martin,Aston Martin,British,506
+toro_rosso,Toro Rosso,Italian,500
+brm,BRM,British,439
+ligier,Ligier,French,388
+alphatauri,AlphaTauri,Italian,309
+bmw_sauber,BMW Sauber,German,308
+haas,Haas F1 Team,American,307
+jordan,Jordan,Irish,291
+racing_point,Racing Point,British,283
+toyota,Toyota,Japanese,278
+lotus-climax,Lotus-Climax,British,253
+cooper-climax,Cooper-Climax,British,229
+bar,BAR,British,227
+alfa,Alfa Romeo,Swiss,199
+lotus-ford,Lotus-Ford,British,174
+brawn,Brawn,British,172
+honda,Honda,Japanese,154
+arrows,Arrows,British,142
+march,March,British,139
+brabham-repco,Brabham-Repco,British,132
+mclaren-ford,McLaren-Ford,British,126
+matra-ford,Matra-Ford,French,111
+wolf,Wolf,Canadian,79
+cooper-maserati,Cooper-Maserati,British,66
+brabham-climax,Brabham-Climax,British,64
+shadow,Shadow,British,58
+vanwall,Vanwall,British,58
+surtees,Surtees,British,53
+matra,Matra,French,52
+brabham-ford,Brabham-Ford,British,51
+jaguar,Jaguar,British,49
+hesketh,Hesketh,British,48
+porsche,Porsche,German,48
+stewart,Stewart,British,47
+rb,RB F1 Team,Italian,46
+fittipaldi,Fittipaldi,Brazilian,44
+minardi,Minardi,Italian,38
+prost,Prost,French,35
+march-ford,March-Ford,British,34
+cooper,Cooper,British,31
+lotus-brm,Lotus-BRM,British,29
+lola,Lola,British,27
+toleman,Toleman,British,26
+footwork,Footwork,British,25
+penske,Penske,American,23
+larrousse,Larrousse,French,22
+ensign,Ensign,British,19
+watson,Watson,American,16
+brabham-alfa_romeo,Brabham-Alfa Romeo,British,16
+dallara,Dallara,Italian,15
+cooper-brm,Cooper-BRM,British,14
+brabham-brm,Brabham-BRM,British,13
+eagle-weslake,Eagle-Weslake,American,13
+brp,BRP,British,11
+shadow-ford,Shadow-Ford,British,9
+leyton,Leyton House,British,8
+ats,ATS,Italian,7
+epperly,Epperly,American,7
+lesovsky,Lesovsky,American,7
+onyx,Onyx,British,6
+rial,Rial,German,6
+parnelli,Parnelli,American,6
+iso_marlboro,Iso Marlboro,British,6
+maserati,Maserati,Italian,6
+mclaren-brm,McLaren-BRM,British,6
+osella,Osella,Italian,5
+super_aguri,Super Aguri,Japanese,4
+eagle-climax,Eagle-Climax,American,4
+hill,Embassy Hill,British,3
+phillips,Phillips,American,3
+cooper-castellotti,Cooper-Castellotti,British,3
+ags,AGS,French,2
+zakspeed,Zakspeed,German,2
+theodore,Theodore,Hong Kong,2
+marussia,Marussia,Russian,2
+spyker,Spyker,Dutch,1
+tecno,Tecno,Italian,1
+trevis,Trevis,American,1
+mclaren-seren,McLaren-Serenissima,British,1
+manor,Manor Marussia,British,1
+mf1,MF1,Russian,0
+spyker_mf1,Spyker MF1,Dutch,0
+forti,Forti,Italian,0
+pacific,Pacific,British,0
+simtek,Simtek,British,0
+fondmetal,Fondmetal,Italian,0
+moda,Andrea Moda,Italian,0
+lambo,Lambo,Italian,0
+coloni,Coloni,Italian,0
+eurobrun,Euro Brun,Italian,0
+life,Life,Italian,0
+ram,RAM,British,0
+spirit,Spirit,British,0
+merzario,Merzario,Italian,0
+kauhsen,Kauhsen,German,0
+rebaque,Rebaque,Mexican,0
+martini,Martini,French,0
+lec,LEC,British,0
+mcguire,McGuire,Australian,0
+boro,Boro,Dutch,0
+apollon,Apollon,Swiss,0
+kojima,Kojima,Japanese,0
+maki,Maki,Japanese,0
+lyncar,Lyncar,British,0
+trojan,Trojan,British,0
+amon,Amon,New Zealander,0
+token,Token,British,0
+politoys,Politoys,British,0
+connew,Connew,British,0
+bellasi,Bellasi,Swiss,0
+tomaso,De Tomaso,Italian,0
+lds,LDS,South African,0
+protos,Protos,British,0
+shannon,Shannon,British,0
+scirocco,Scirocco,British,0
+re,RE,Rhodesian,0
+derrington,Derrington,British,0
+gilby,Gilby,British,0
+stebro,Stebro,Canadian,0
+emeryson,Emeryson,British,0
+enb,ENB,Belgian,0
+jbw,JBW,British,0
+ferguson,Ferguson,British,0
+mbm,MBM,Swiss,0
+behra-porsche,Behra-Porsche,Italian,0
+scarab,Scarab,American,0
+meskowski,Meskowski,American,0
+kurtis_kraft,Kurtis Kraft,American,0
+kuzma,Kuzma,American,0
+vhristensen,Christensen,American,0
+ewing,Ewing,American,0
+moore,Moore,American,0
+dunn,Dunn,American,0
+elder,Elder,American,0
+sutton,Sutton,American,0
+fry,Fry,British,0
+tec-mec,Tec-Mec,Italian,0
+connaught,Connaught,British,0
+osca,OSCA,Italian,0
+hrt,HRT,Spanish,0
+virgin,Virgin,British,0
+cooper-osca,Cooper-OSCA,British,0
+cooper-borgward,Cooper-Borgward,British,0
+lotus-maserati,Lotus-Maserati,British,0
+de_tomaso-osca,De Tomaso-Osca,Italian,0
+de_tomaso-alfa_romeo,De Tomaso-Alfa Romeo,Italian,0
+lotus-borgward,Lotus-Borgward,British,0
+cooper-alfa_romeo,Cooper-Alfa Romeo,British,0
+de_tomaso-ferrari,De Tomaso-Ferrari,Italian,0
+lds-climax,LDS-Climax,South African,0
+lds-alfa_romeo,LDS-Alfa Romeo,South African,0
+cooper-ford,Cooper-Ford,British,0
+cooper-ferrari,Cooper-Ferrari,British,0
+cooper-ats,Cooper-ATS,British,0
+brm-ford,BRM-Ford,British,0
+mclaren-alfa_romeo,McLaren-Alfa Romeo,British,0
+march-alfa_romeo,March-Alfa Romeo,British,0
+lotus-pw,Lotus-Pratt &amp; Whitney,British,0
+shadow-matra,Shadow-Matra,British,0
+lotus_racing,Lotus,Malaysian,0
+caterham,Caterham,Malaysian,0

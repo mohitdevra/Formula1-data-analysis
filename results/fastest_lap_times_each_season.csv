@@ -1,0 +1,545 @@
+"year","name","time","driverRef"
+2024,Circuit Gilles Villeneuve,"1:14.856",hamilton
+2024,Circuit de Monaco,"1:14.165",hamilton
+2023,Autódromo Hermanos Rodríguez,"1:21.334",hamilton
+2023,Marina Bay Street Circuit,"1:35.867",hamilton
+2023,Circuit de Spa-Francorchamps,"1:47.305",hamilton
+2023,Circuit de Monaco,"1:15.650",hamilton
+2022,Hungaroring,"1:21.386",hamilton
+2022,Silverstone Circuit,"1:30.510",hamilton
+2021,Jeddah Corniche Circuit,"1:30.734",hamilton
+2021,Circuit of the Americas,"1:38.485",hamilton
+2021,Circuit Park Zandvoort,"1:11.097",hamilton
+2021,Red Bull Ring,"1:07.058",hamilton
+2021,Circuit de Monaco,"1:12.909",hamilton
+2021,Autodromo Enzo e Dino Ferrari,"1:16.702",hamilton
+2020,Autodromo Enzo e Dino Ferrari,"1:15.484",hamilton
+2020,Autódromo Internacional do Algarve,"1:18.750",hamilton
+2020,Autodromo Internazionale del Mugello,"1:18.833",hamilton
+2020,Autodromo Nazionale di Monza,"1:22.746",hamilton
+2020,Silverstone Circuit,"1:28.451",hamilton
+2020,Hungaroring,"1:16.627",hamilton
+2019,Yas Marina Circuit,"1:39.283",hamilton
+2019,Suzuka Circuit,"1:30.983",hamilton
+2019,Sochi Autodrom,"1:35.761",hamilton
+2019,Autodromo Nazionale di Monza,"1:21.779",hamilton
+2019,Silverstone Circuit,"1:27.369",hamilton
+2019,Circuit de Barcelona-Catalunya,"1:18.492",hamilton
+2018,Circuit of the Americas,"1:37.392",hamilton
+2018,Autodromo Nazionale di Monza,"1:22.497",hamilton
+2018,Hockenheimring,"1:15.545",hamilton
+2017,Marina Bay Street Circuit,"1:45.008",hamilton
+2017,Silverstone Circuit,"1:30.621",hamilton
+2017,Red Bull Ring,"1:07.411",hamilton
+2017,Circuit Gilles Villeneuve,"1:14.551",hamilton
+2017,Circuit de Barcelona-Catalunya,"1:23.593",hamilton
+2017,Bahrain International Circuit,"1:32.798",hamilton
+2017,Shanghai International Circuit,"1:35.378",hamilton
+2016,Circuit de Spa-Francorchamps,"1:51.583",hamilton
+2016,Red Bull Ring,"1:08.411",hamilton
+2016,Circuit de Monaco,"1:17.939",hamilton
+2015,Yas Marina Circuit,"1:44.517",hamilton
+2015,Autódromo José Carlos Pace,"1:14.832",hamilton
+2015,Suzuka Circuit,"1:36.145",hamilton
+2015,Autodromo Nazionale di Monza,"1:26.672",hamilton
+2015,Albert Park Grand Prix Circuit,"1:30.945",hamilton
+2015,Shanghai International Circuit,"1:42.208",hamilton
+2015,Circuit de Barcelona-Catalunya,"1:28.270",hamilton
+2014,Autódromo José Carlos Pace,"1:13.555",hamilton
+2014,Suzuka Circuit,"1:51.600",hamilton
+2014,Marina Bay Street Circuit,"1:50.417",hamilton
+2014,Autodromo Nazionale di Monza,"1:28.004",hamilton
+2014,Hockenheimring,"1:19.908",hamilton
+2014,Silverstone Circuit,"1:37.176",hamilton
+2014,Sepang International Circuit,"1:43.066",hamilton
+2013,Autodromo Nazionale di Monza,"1:25.849",hamilton
+2012,Autódromo José Carlos Pace,"1:18.069",hamilton
+2011,Autodromo Nazionale di Monza,"1:26.187",hamilton
+2011,Nürburgring,"1:34.302",hamilton
+2011,Circuit de Barcelona-Catalunya,"1:26.727",hamilton
+2010,Yas Marina Circuit,"1:41.274",hamilton
+2010,Autódromo José Carlos Pace,"1:13.851",hamilton
+2010,Circuit de Spa-Francorchamps,"1:49.069",hamilton
+2010,Circuit de Barcelona-Catalunya,"1:24.357",hamilton
+2010,Shanghai International Circuit,"1:42.061",hamilton
+2007,Fuji Speedway,"1:28.193",hamilton
+2007,Sepang International Circuit,"1:36.701",hamilton
+2008,Shanghai International Circuit,"1:36.325",hamilton
+2008,Hockenheimring,"1:15.987",heidfeld
+2008,Sepang International Circuit,"1:35.366",heidfeld
+2016,Sepang International Circuit,"1:36.424",rosberg
+2016,Silverstone Circuit,"1:35.548",rosberg
+2016,Baku City Circuit,"1:46.485",rosberg
+2016,Circuit Gilles Villeneuve,"1:15.599",rosberg
+2016,Sochi Autodrom,"1:39.094",rosberg
+2016,Bahrain International Circuit,"1:34.482",rosberg
+2015,Autódromo Hermanos Rodríguez,"1:20.521",rosberg
+2015,Circuit of the Americas,"1:40.666",rosberg
+2015,Circuit de Spa-Francorchamps,"1:52.416",rosberg
+2015,Red Bull Ring,"1:11.235",rosberg
+2015,Sepang International Circuit,"1:42.062",rosberg
+2014,Circuit de Spa-Francorchamps,"1:50.511",rosberg
+2014,Hungaroring,"1:25.724",rosberg
+2014,Shanghai International Circuit,"1:40.402",rosberg
+2014,Bahrain International Circuit,"1:37.020",rosberg
+2014,Albert Park Grand Prix Circuit,"1:32.478",rosberg
+2012,Autodromo Nazionale di Monza,"1:27.239",rosberg
+2012,Valencia Street Circuit,"1:42.163",rosberg
+2006,Bahrain International Circuit,"1:32.408",rosberg
+2009,Albert Park Grand Prix Circuit,"1:27.706",rosberg
+2024,Red Bull Ring,"1:07.694",alonso
+2024,Shanghai International Circuit,"1:37.810",alonso
+2023,Circuit Park Zandvoort,"1:13.837",alonso
+2017,Hungaroring,"1:20.182",alonso
+2016,Autodromo Nazionale di Monza,"1:25.340",alonso
+2013,Yas Marina Circuit,"1:43.434",alonso
+2013,Nürburgring,"1:33.468",alonso
+2011,Silverstone Circuit,"1:33.391",alonso
+2010,Korean International Circuit,"1:50.257",alonso
+2010,Marina Bay Street Circuit,"1:47.976",alonso
+2010,Autodromo Nazionale di Monza,"1:24.139",alonso
+2010,Silverstone Circuit,"1:30.874",alonso
+2010,Bahrain International Circuit,"1:58.287",alonso
+2003,Circuit Gilles Villeneuve,"1:16.040",alonso
+2005,Nürburgring,"1:30.711",alonso
+2005,Albert Park Grand Prix Circuit,"1:25.683",alonso
+2006,Suzuka Circuit,"1:32.676",alonso
+2006,Shanghai International Circuit,"1:37.586",alonso
+2006,Silverstone Circuit,"1:21.599",alonso
+2006,Autodromo Enzo e Dino Ferrari,"1:24.569",alonso
+2006,Sepang International Circuit,"1:34.803",alonso
+2007,Autodromo Nazionale di Monza,"1:22.871",alonso
+2007,Circuit Gilles Villeneuve,"1:16.367",alonso
+2007,Circuit de Monaco,"1:15.284",alonso
+2009,Marina Bay Street Circuit,"1:48.240",alonso
+2009,Nürburgring,"1:33.365",alonso
+2008,Bahrain International Circuit,"1:33.193",kovalainen
+2008,Albert Park Grand Prix Circuit,"1:27.418",kovalainen
+2018,Red Bull Ring,"1:06.957",raikkonen
+2017,Sochi Autodrom,"1:36.844",raikkonen
+2017,Albert Park Grand Prix Circuit,"1:26.538",raikkonen
+2016,Hungaroring,"1:23.086",raikkonen
+2015,Bahrain International Circuit,"1:36.311",raikkonen
+2015,Circuit Gilles Villeneuve,"1:16.987",raikkonen
+2014,Circuit de Monaco,"1:18.479",raikkonen
+2013,Buddh International Circuit,"1:27.679",raikkonen
+2013,Albert Park Grand Prix Circuit,"1:29.274",raikkonen
+2012,Sepang International Circuit,"1:40.722",raikkonen
+2002,Albert Park Grand Prix Circuit,"1:28.541",raikkonen
+2003,Nürburgring,"1:32.621",raikkonen
+2003,Circuit de Monaco,"1:14.545",raikkonen
+2003,Albert Park Grand Prix Circuit,"1:27.724",raikkonen
+2004,Circuit de Spa-Francorchamps,"1:45.108",raikkonen
+2004,Hockenheimring,"1:13.780",raikkonen
+2005,Shanghai International Circuit,"1:33.242",raikkonen
+2005,Suzuka Circuit,"1:31.540",raikkonen
+2005,Autódromo José Carlos Pace,"1:12.268",raikkonen
+2005,Autodromo Nazionale di Monza,"1:21.504",raikkonen
+2005,Hungaroring,"1:21.219",raikkonen
+2005,Hockenheimring,"1:14.873",raikkonen
+2005,Silverstone Circuit,"1:20.502",raikkonen
+2005,Circuit de Nevers Magny-Cours,"1:16.423",raikkonen
+2005,Circuit Gilles Villeneuve,"1:14.384",raikkonen
+2005,Sepang International Circuit,"1:35.483",raikkonen
+2006,Autodromo Nazionale di Monza,"1:22.559",raikkonen
+2006,Circuit Gilles Villeneuve,"1:15.841",raikkonen
+2006,Albert Park Grand Prix Circuit,"1:26.045",raikkonen
+2007,Autódromo José Carlos Pace,"1:12.445",raikkonen
+2007,Istanbul Park,"1:27.295",raikkonen
+2007,Hungaroring,"1:20.047",raikkonen
+2007,Silverstone Circuit,"1:20.638",raikkonen
+2007,Indianapolis Motor Speedway,"1:13.117",raikkonen
+2007,Albert Park Grand Prix Circuit,"1:25.235",raikkonen
+2008,Marina Bay Street Circuit,"1:45.599",raikkonen
+2008,Autodromo Nazionale di Monza,"1:28.047",raikkonen
+2008,Circuit de Spa-Francorchamps,"1:47.930",raikkonen
+2008,Hungaroring,"1:21.195",raikkonen
+2008,Silverstone Circuit,"1:32.150",raikkonen
+2008,Circuit de Nevers Magny-Cours,"1:16.630",raikkonen
+2008,Circuit Gilles Villeneuve,"1:17.387",raikkonen
+2008,Circuit de Monaco,"1:16.689",raikkonen
+2008,Istanbul Park,"1:26.506",raikkonen
+2008,Circuit de Barcelona-Catalunya,"1:21.670",raikkonen
+2010,Circuit Gilles Villeneuve,"1:16.972",kubica
+2009,Valencia Street Circuit,"1:38.683",glock
+2014,Circuit Gilles Villeneuve,"1:18.504",massa
+2011,Hungaroring,"1:23.415",massa
+2011,Albert Park Grand Prix Circuit,"1:28.947",massa
+2006,Hungaroring,"1:23.516",massa
+2006,Circuit de Barcelona-Catalunya,"1:16.648",massa
+2007,Shanghai International Circuit,"1:37.454",massa
+2007,Circuit de Spa-Francorchamps,"1:48.036",massa
+2007,Nürburgring,"1:32.853",massa
+2007,Circuit de Nevers Magny-Cours,"1:16.099",massa
+2007,Circuit de Barcelona-Catalunya,"1:22.680",massa
+2007,Bahrain International Circuit,"1:34.067",massa
+2008,Autódromo José Carlos Pace,"1:13.736",massa
+2008,Fuji Speedway,"1:18.426",massa
+2008,Valencia Street Circuit,"1:38.708",massa
+2009,Circuit de Monaco,"1:15.154",massa
+1997,Circuit Gilles Villeneuve,"1:19.635",coulthard
+1998,Hockenheimring,"1:46.116",coulthard
+1998,Red Bull Ring,"1:12.878",coulthard
+1998,Circuit de Nevers Magny-Cours,"1:17.523",coulthard
+1999,Hungaroring,"1:20.699",coulthard
+1999,Hockenheimring,"1:45.270",coulthard
+1999,Circuit de Nevers Magny-Cours,"1:19.227",coulthard
+2000,Indianapolis Motor Speedway,"1:14.711",coulthard
+2000,Red Bull Ring,"1:11.783",coulthard
+2000,Circuit de Nevers Magny-Cours,"1:19.479",coulthard
+2001,Circuit de Nevers Magny-Cours,"1:16.088",coulthard
+2001,Circuit de Monaco,"1:19.424",coulthard
+2001,Red Bull Ring,"1:10.843",coulthard
+2002,Circuit de Nevers Magny-Cours,"1:15.045",coulthard
+2009,Bahrain International Circuit,"1:34.556",trulli
+2009,Autodromo Nazionale di Monza,"1:24.739",sutil
+2013,Autódromo José Carlos Pace,"1:15.436",webber
+2013,Suzuka Circuit,"1:34.587",webber
+2013,Hungaroring,"1:24.069",webber
+2013,Silverstone Circuit,"1:33.401",webber
+2013,Circuit Gilles Villeneuve,"1:16.182",webber
+2012,Korean International Circuit,"1:42.037",webber
+2011,Autódromo José Carlos Pace,"1:15.324",webber
+2011,Yas Marina Circuit,"1:42.612",webber
+2011,Circuit de Spa-Francorchamps,"1:49.883",webber
+2011,Circuit de Monaco,"1:16.234",webber
+2011,Istanbul Park,"1:29.703",webber
+2011,Shanghai International Circuit,"1:38.993",webber
+2011,Sepang International Circuit,"1:40.571",webber
+2010,Suzuka Circuit,"1:33.474",webber
+2010,Sepang International Circuit,"1:37.054",webber
+2010,Albert Park Grand Prix Circuit,"1:28.358",webber
+2009,Autódromo José Carlos Pace,"1:13.733",webber
+2009,Suzuka Circuit,"1:32.569",webber
+2009,Hungaroring,"1:21.931",webber
+2012,Buddh International Circuit,"1:28.203",button
+2012,Albert Park Grand Prix Circuit,"1:29.187",button
+2011,Suzuka Circuit,"1:36.568",button
+2011,Marina Bay Street Circuit,"1:48.454",button
+2011,Circuit Gilles Villeneuve,"1:16.956",button
+2010,Valencia Street Circuit,"1:38.766",button
+2009,Istanbul Park,"1:27.579",button
+2009,Sepang International Circuit,"1:36.641",button
+2019,Circuit de Spa-Francorchamps,"1:46.409",vettel
+2019,Circuit Paul Ricard,"1:32.740",vettel
+2018,Yas Marina Circuit,"1:40.867",vettel
+2018,Suzuka Circuit,"1:32.318",vettel
+2018,Silverstone Circuit,"1:30.696",vettel
+2017,Autódromo Hermanos Rodríguez,"1:18.785",vettel
+2017,Circuit of the Americas,"1:37.766",vettel
+2017,Sepang International Circuit,"1:34.080",vettel
+2017,Circuit de Spa-Francorchamps,"1:46.577",vettel
+2017,Baku City Circuit,"1:43.441",vettel
+2016,Yas Marina Circuit,"1:43.729",vettel
+2016,Circuit of the Americas,"1:39.877",vettel
+2016,Suzuka Circuit,"1:35.118",vettel
+2015,Sochi Autodrom,"1:40.071",vettel
+2014,Circuit of the Americas,"1:41.379",vettel
+2014,Circuit de Barcelona-Catalunya,"1:28.918",vettel
+2013,Circuit of the Americas,"1:39.856",vettel
+2013,Korean International Circuit,"1:41.380",vettel
+2013,Marina Bay Street Circuit,"1:48.574",vettel
+2013,Circuit de Spa-Francorchamps,"1:50.756",vettel
+2013,Circuit de Monaco,"1:16.577",vettel
+2013,Bahrain International Circuit,"1:36.961",vettel
+2013,Shanghai International Circuit,"1:36.808",vettel
+2012,Circuit of the Americas,"1:39.347",vettel
+2012,Yas Marina Circuit,"1:43.964",vettel
+2012,Suzuka Circuit,"1:35.774",vettel
+2012,Hungaroring,"1:24.136",vettel
+2012,Circuit Gilles Villeneuve,"1:15.752",vettel
+2012,Bahrain International Circuit,"1:36.379",vettel
+2011,Buddh International Circuit,"1:27.249",vettel
+2011,Korean International Circuit,"1:39.605",vettel
+2011,Valencia Street Circuit,"1:41.852",vettel
+2010,Hungaroring,"1:22.362",vettel
+2010,Hockenheimring,"1:15.824",vettel
+2010,Circuit de Monaco,"1:15.192",vettel
+2009,Yas Marina Circuit,"1:40.279",vettel
+2009,Circuit de Spa-Francorchamps,"1:47.263",vettel
+2009,Silverstone Circuit,"1:20.735",vettel
+1997,Circuit de Barcelona-Catalunya,"1:22.242",fisichella
+2005,Circuit de Barcelona-Catalunya,"1:15.641",fisichella
+2000,Circuit de Spa-Francorchamps,"1:53.803",barrichello
+2000,Hockenheimring,"1:44.300",barrichello
+2000,Albert Park Grand Prix Circuit,"1:31.481",barrichello
+2002,Indianapolis Motor Speedway,"1:12.738",barrichello
+2002,Autodromo Nazionale di Monza,"1:23.657",barrichello
+2002,Silverstone Circuit,"1:23.083",barrichello
+2002,Circuit de Monaco,"1:18.023",barrichello
+2002,Autodromo Enzo e Dino Ferrari,"1:24.170",barrichello
+2003,Silverstone Circuit,"1:22.236",barrichello
+2003,Circuit de Barcelona-Catalunya,"1:20.143",barrichello
+2003,Autódromo José Carlos Pace,"1:22.032",barrichello
+2004,Suzuka Circuit,"1:32.730",barrichello
+2004,Autodromo Nazionale di Monza,"1:21.046",barrichello
+2004,Indianapolis Motor Speedway,"1:10.399",barrichello
+2004,Circuit Gilles Villeneuve,"1:13.622",barrichello
+2009,Circuit de Barcelona-Catalunya,"1:22.762",barrichello
+2009,Shanghai International Circuit,"1:52.592",barrichello
+1999,Autodromo Nazionale di Monza,"1:25.579",ralf_schumacher
+2001,Autodromo Nazionale di Monza,"1:25.073",ralf_schumacher
+2001,Circuit Gilles Villeneuve,"1:17.205",ralf_schumacher
+2001,Autodromo Enzo e Dino Ferrari,"1:25.524",ralf_schumacher
+2001,Autódromo José Carlos Pace,"1:15.693",ralf_schumacher
+2003,Suzuka Circuit,"1:33.408",ralf_schumacher
+2005,Circuit de Spa-Francorchamps,"1:51.453",ralf_schumacher
+1998,Autódromo Juan y Oscar Gálvez,"1:28.179",wurz
+2012,Hockenheimring,"1:18.725",michael_schumacher
+1996,Autodromo Nazionale di Monza,"1:26.110",michael_schumacher
+1996,Circuit de Barcelona-Catalunya,"1:45.517",michael_schumacher
+1997,Silverstone Circuit,"1:24.475",michael_schumacher
+1997,Circuit de Nevers Magny-Cours,"1:17.910",michael_schumacher
+1997,Circuit de Monaco,"1:53.315",michael_schumacher
+1998,Suzuka Circuit,"1:40.190",michael_schumacher
+1998,Circuit de Spa-Francorchamps,"2:03.766",michael_schumacher
+1998,Hungaroring,"1:19.286",michael_schumacher
+1998,Silverstone Circuit,"1:35.704",michael_schumacher
+1998,Circuit Gilles Villeneuve,"1:19.379",michael_schumacher
+1998,Autodromo Enzo e Dino Ferrari,"1:29.345",michael_schumacher
+1999,Suzuka Circuit,"1:41.319",michael_schumacher
+1999,Sepang International Circuit,"1:40.267",michael_schumacher
+1999,Circuit de Barcelona-Catalunya,"1:24.982",michael_schumacher
+1999,Autodromo Enzo e Dino Ferrari,"1:28.547",michael_schumacher
+1999,Albert Park Grand Prix Circuit,"1:32.112",michael_schumacher
+2000,Nürburgring,"1:22.269",michael_schumacher
+2000,Autódromo José Carlos Pace,"1:14.755",michael_schumacher
+2001,Circuit de Spa-Francorchamps,"1:49.758",michael_schumacher
+2001,Circuit de Barcelona-Catalunya,"1:21.151",michael_schumacher
+2001,Albert Park Grand Prix Circuit,"1:28.214",michael_schumacher
+2002,Suzuka Circuit,"1:36.125",michael_schumacher
+2002,Circuit de Spa-Francorchamps,"1:47.176",michael_schumacher
+2002,Hungaroring,"1:16.207",michael_schumacher
+2002,Hockenheimring,"1:16.462",michael_schumacher
+2002,Nürburgring,"1:32.226",michael_schumacher
+2002,Red Bull Ring,"1:09.298",michael_schumacher
+2002,Circuit de Barcelona-Catalunya,"1:20.355",michael_schumacher
+2003,Indianapolis Motor Speedway,"1:11.473",michael_schumacher
+2003,Autodromo Nazionale di Monza,"1:21.832",michael_schumacher
+2003,Red Bull Ring,"1:08.337",michael_schumacher
+2003,Autodromo Enzo e Dino Ferrari,"1:22.491",michael_schumacher
+2003,Sepang International Circuit,"1:36.412",michael_schumacher
+2004,Shanghai International Circuit,"1:32.238",michael_schumacher
+2004,Hungaroring,"1:19.071",michael_schumacher
+2004,Silverstone Circuit,"1:18.739",michael_schumacher
+2004,Circuit de Nevers Magny-Cours,"1:15.377",michael_schumacher
+2004,Nürburgring,"1:29.468",michael_schumacher
+2004,Circuit de Monaco,"1:14.439",michael_schumacher
+2004,Circuit de Barcelona-Catalunya,"1:17.450",michael_schumacher
+2004,Autodromo Enzo e Dino Ferrari,"1:20.411",michael_schumacher
+2004,Bahrain International Circuit,"1:30.252",michael_schumacher
+2004,Albert Park Grand Prix Circuit,"1:24.125",michael_schumacher
+2005,Indianapolis Motor Speedway,"1:11.497",michael_schumacher
+2005,Circuit de Monaco,"1:15.842",michael_schumacher
+2005,Autodromo Enzo e Dino Ferrari,"1:21.858",michael_schumacher
+2006,Autódromo José Carlos Pace,"1:12.162",michael_schumacher
+2006,Istanbul Park,"1:28.005",michael_schumacher
+2006,Hockenheimring,"1:16.357",michael_schumacher
+2006,Circuit de Nevers Magny-Cours,"1:17.111",michael_schumacher
+2006,Indianapolis Motor Speedway,"1:12.719",michael_schumacher
+2006,Circuit de Monaco,"1:15.143",michael_schumacher
+2006,Nürburgring,"1:32.099",michael_schumacher
+2001,Suzuka Circuit,"1:36.450",montoya
+2001,Indianapolis Motor Speedway,"1:14.448",montoya
+2001,Hockenheimring,"1:41.808",montoya
+2001,Nürburgring,"1:18.354",montoya
+2002,Circuit Gilles Villeneuve,"1:15.960",montoya
+2002,Autódromo José Carlos Pace,"1:16.079",montoya
+2002,Sepang International Circuit,"1:38.049",montoya
+2003,Hungaroring,"1:22.095",montoya
+2003,Hockenheimring,"1:14.917",montoya
+2003,Circuit de Nevers Magny-Cours,"1:15.512",montoya
+2004,Autódromo José Carlos Pace,"1:11.473",montoya
+2004,Sepang International Circuit,"1:34.223",montoya
+2005,Istanbul Park,"1:24.770",montoya
+1996,Suzuka Circuit,"1:44.043",villeneuve
+1996,Autódromo do Estoril,"1:22.873",villeneuve
+1996,Silverstone Circuit,"1:29.288",villeneuve
+1996,Circuit de Nevers Magny-Cours,"1:18.610",villeneuve
+1996,Circuit Gilles Villeneuve,"1:21.916",villeneuve
+1996,Albert Park Grand Prix Circuit,"1:33.421",villeneuve
+1997,Red Bull Ring,"1:11.814",villeneuve
+1997,Circuit de Spa-Francorchamps,"1:52.692",villeneuve
+1997,Autódromo José Carlos Pace,"1:18.397",villeneuve
+2005,Bahrain International Circuit,"1:31.447",rosa
+1997,Circuito de Jerez,"1:23.135",frentzen
+1997,Suzuka Circuit,"1:38.942",frentzen
+1997,Nürburgring,"1:18.805",frentzen
+1997,Hungaroring,"1:18.372",frentzen
+1997,Autodromo Enzo e Dino Ferrari,"1:25.531",frentzen
+1997,Albert Park Grand Prix Circuit,"1:30.585",frentzen
+1996,Circuit de Monaco,"1:25.205",alesi
+1996,Autódromo Juan y Oscar Gálvez,"1:29.413",alesi
+1999,Circuit Gilles Villeneuve,"1:20.382",irvine
+1997,Autodromo Nazionale di Monza,"1:24.808",hakkinen
+1998,Nürburgring,"1:20.450",hakkinen
+1998,Autodromo Nazionale di Monza,"1:25.139",hakkinen
+1998,Circuit de Monaco,"1:22.948",hakkinen
+1998,Circuit de Barcelona-Catalunya,"1:24.275",hakkinen
+1998,Autódromo José Carlos Pace,"1:19.337",hakkinen
+1998,Albert Park Grand Prix Circuit,"1:31.649",hakkinen
+1999,Nürburgring,"1:21.282",hakkinen
+1999,Circuit de Spa-Francorchamps,"1:53.955",hakkinen
+1999,Red Bull Ring,"1:12.107",hakkinen
+1999,Silverstone Circuit,"1:28.309",hakkinen
+1999,Circuit de Monaco,"1:22.259",hakkinen
+1999,Autódromo José Carlos Pace,"1:18.448",hakkinen
+2000,Sepang International Circuit,"1:38.543",hakkinen
+2000,Suzuka Circuit,"1:39.189",hakkinen
+2000,Autodromo Nazionale di Monza,"1:25.595",hakkinen
+2000,Hungaroring,"1:20.028",hakkinen
+2000,Circuit Gilles Villeneuve,"1:19.049",hakkinen
+2000,Circuit de Monaco,"1:21.571",hakkinen
+2000,Circuit de Barcelona-Catalunya,"1:24.470",hakkinen
+2000,Silverstone Circuit,"1:26.217",hakkinen
+2000,Autodromo Enzo e Dino Ferrari,"1:26.523",hakkinen
+2001,Hungaroring,"1:16.723",hakkinen
+2001,Silverstone Circuit,"1:23.405",hakkinen
+2001,Sepang International Circuit,"1:40.962",hakkinen
+1996,Hungaroring,"1:20.093",damon_hill
+1996,Hockenheimring,"1:46.504",damon_hill
+1996,Autodromo Enzo e Dino Ferrari,"1:28.931",damon_hill
+1996,Nürburgring,"1:21.363",damon_hill
+1996,Autódromo José Carlos Pace,"1:21.547",damon_hill
+1996,Circuit de Spa-Francorchamps,"1:53.067",berger
+1997,Hockenheimring,"1:45.747",berger
+1997,Autódromo Juan y Oscar Gálvez,"1:27.981",berger
+2012,Circuit de Barcelona-Catalunya,"1:26.250",grosjean
+2012,Silverstone Circuit,"1:34.608",kobayashi
+2012,Shanghai International Circuit,"1:39.960",kobayashi
+2021,Hungaroring,"1:18.394",gasly
+2019,Circuit de Monaco,"1:14.279",gasly
+2019,Shanghai International Circuit,"1:34.742",gasly
+2016,Shanghai International Circuit,"1:39.824",hulkenberg
+2012,Marina Bay Street Circuit,"1:51.033",hulkenberg
+2010,Istanbul Park,"1:29.165",petrov
+2012,Circuit de Spa-Francorchamps,"1:52.822",bruno_senna
+2024,Circuit de Spa-Francorchamps,"1:44.701",perez
+2023,Circuit Gilles Villeneuve,"1:14.481",perez
+2023,Albert Park Grand Prix Circuit,"1:20.235",perez
+2022,Autodromo Nazionale di Monza,"1:24.030",perez
+2022,Baku City Circuit,"1:46.046",perez
+2022,Circuit de Barcelona-Catalunya,"1:24.108",perez
+2021,Autódromo José Carlos Pace,"1:11.010",perez
+2021,Silverstone Circuit,"1:28.617",perez
+2017,Circuit de Monaco,"1:14.820",perez
+2014,Red Bull Ring,"1:12.142",perez
+2013,Sepang International Circuit,"1:39.199",perez
+2012,Circuit de Monaco,"1:17.296",perez
+2024,Marina Bay Street Circuit,"1:34.486",ricciardo
+2021,Autodromo Nazionale di Monza,"1:24.812",ricciardo
+2020,Yas Marina Circuit,"1:40.926",ricciardo
+2020,Circuit de Spa-Francorchamps,"1:47.483",ricciardo
+2018,Hungaroring,"1:20.012",ricciardo
+2018,Circuit de Barcelona-Catalunya,"1:18.441",ricciardo
+2018,Shanghai International Circuit,"1:35.785",ricciardo
+2018,Albert Park Grand Prix Circuit,"1:25.945",ricciardo
+2017,Autodromo Nazionale di Monza,"1:23.361",ricciardo
+2016,Autódromo Hermanos Rodríguez,"1:21.134",ricciardo
+2016,Marina Bay Street Circuit,"1:47.187",ricciardo
+2016,Hockenheimring,"1:18.442",ricciardo
+2016,Albert Park Grand Prix Circuit,"1:28.997",ricciardo
+2015,Marina Bay Street Circuit,"1:50.041",ricciardo
+2015,Hungaroring,"1:24.821",ricciardo
+2015,Circuit de Monaco,"1:18.063",ricciardo
+2014,Yas Marina Circuit,"1:44.496",ricciardo
+2013,Circuit de Barcelona-Catalunya,"1:26.217",gutierrez
+2021,Autódromo Hermanos Rodríguez,"1:17.774",bottas
+2021,Istanbul Park,"1:30.432",bottas
+2021,Bahrain International Circuit,"1:32.090",bottas
+2020,Sochi Autodrom,"1:37.030",bottas
+2020,Circuit de Barcelona-Catalunya,"1:18.183",bottas
+2019,Autódromo José Carlos Pace,"1:10.698",bottas
+2019,Circuit Gilles Villeneuve,"1:13.078",bottas
+2019,Albert Park Grand Prix Circuit,"1:25.580",bottas
+2018,Autódromo José Carlos Pace,"1:10.540",bottas
+2018,Autódromo Hermanos Rodríguez,"1:18.741",bottas
+2018,Sochi Autodrom,"1:35.861",bottas
+2018,Circuit de Spa-Francorchamps,"1:46.286",bottas
+2018,Circuit Paul Ricard,"1:34.225",bottas
+2018,Baku City Circuit,"1:45.149",bottas
+2018,Bahrain International Circuit,"1:33.740",bottas
+2017,Yas Marina Circuit,"1:40.650",bottas
+2017,Suzuka Circuit,"1:33.144",bottas
+2015,Silverstone Circuit,"1:36.610",bottas
+2014,Sochi Autodrom,"1:40.896",bottas
+2024,Yas Marina Circuit,"1:25.637",kevin_magnussen
+2019,Marina Bay Street Circuit,"1:42.301",kevin_magnussen
+2018,Marina Bay Street Circuit,"1:41.905",kevin_magnussen
+2016,Circuit de Barcelona-Catalunya,"1:26.948",kvyat
+2024,Autódromo José Carlos Pace,"1:20.472",max_verstappen
+2024,Suzuka Circuit,"1:33.706",max_verstappen
+2024,Bahrain International Circuit,"1:32.608",max_verstappen
+2023,Yas Marina Circuit,"1:26.993",max_verstappen
+2023,Losail International Circuit,"1:24.319",max_verstappen
+2023,Suzuka Circuit,"1:34.183",max_verstappen
+2023,Hungaroring,"1:20.504",max_verstappen
+2023,Silverstone Circuit,"1:30.275",max_verstappen
+2023,Red Bull Ring,"1:07.012",max_verstappen
+2023,Circuit de Barcelona-Catalunya,"1:16.330",max_verstappen
+2023,Miami International Autodrome,"1:29.708",max_verstappen
+2023,Jeddah Corniche Circuit,"1:31.906",max_verstappen
+2022,Circuit Park Zandvoort,"1:13.652",max_verstappen
+2022,Circuit de Spa-Francorchamps,"1:49.354",max_verstappen
+2022,Red Bull Ring,"1:07.275",max_verstappen
+2022,Miami International Autodrome,"1:31.361",max_verstappen
+2022,Autodromo Enzo e Dino Ferrari,"1:18.446",max_verstappen
+2021,Yas Marina Circuit,"1:26.103",max_verstappen
+2021,Circuit de Spa-Francorchamps,"3:27.071",max_verstappen
+2021,Red Bull Ring,"1:06.200",max_verstappen
+2021,Circuit Paul Ricard,"1:36.404",max_verstappen
+2021,Baku City Circuit,"1:44.481",max_verstappen
+2021,Circuit de Barcelona-Catalunya,"1:18.149",max_verstappen
+2021,Autódromo Internacional do Algarve,"1:19.849",max_verstappen
+2021,Losail International Circuit,"1:23.196",max_verstappen
+2020,Bahrain International Circuit,"1:32.014",max_verstappen
+2020,Nürburgring,"1:28.139",max_verstappen
+2020,Silverstone Circuit,"1:27.097",max_verstappen
+2019,Hungaroring,"1:17.103",max_verstappen
+2019,Hockenheimring,"1:16.645",max_verstappen
+2019,Red Bull Ring,"1:07.475",max_verstappen
+2018,Circuit Gilles Villeneuve,"1:13.864",max_verstappen
+2018,Circuit de Monaco,"1:14.260",max_verstappen
+2017,Autódromo José Carlos Pace,"1:11.044",max_verstappen
+2016,Autódromo José Carlos Pace,"1:25.305",max_verstappen
+2024,Silverstone Circuit,"1:28.293",sainz
+2022,Circuit Paul Ricard,"1:35.781",sainz
+2022,Circuit Gilles Villeneuve,"1:15.749",sainz
+2020,Red Bull Ring,"1:05.619",sainz
+2024,Circuit of the Americas,"1:37.330",ocon
+2024,Autódromo Hermanos Rodríguez,"1:18.336",leclerc
+2024,Albert Park Grand Prix Circuit,"1:19.813",leclerc
+2024,Jeddah Corniche Circuit,"1:31.632",leclerc
+2022,Albert Park Grand Prix Circuit,"1:20.260",leclerc
+2022,Jeddah Corniche Circuit,"1:31.634",leclerc
+2022,Bahrain International Circuit,"1:34.570",leclerc
+2019,Circuit of the Americas,"1:36.169",leclerc
+2019,Autódromo Hermanos Rodríguez,"1:19.232",leclerc
+2019,Baku City Circuit,"1:43.009",leclerc
+2019,Bahrain International Circuit,"1:33.411",leclerc
+2024,Losail International Circuit,"1:22.384",norris
+2024,Las Vegas Strip Street Circuit,"1:34.876",norris
+2024,Baku City Circuit,"1:45.255",norris
+2024,Autodromo Nazionale di Monza,"1:21.432",norris
+2024,Circuit Park Zandvoort,"1:13.817",norris
+2024,Circuit de Barcelona-Catalunya,"1:17.115",norris
+2023,Autódromo José Carlos Pace,"1:12.486",norris
+2022,Yas Marina Circuit,"1:28.391",norris
+2022,Circuit de Monaco,"1:14.693",norris
+2021,Sochi Autodrom,"1:37.423",norris
+2020,Istanbul Park,"1:36.806",norris
+2020,Red Bull Ring,"1:07.475",norris
+2024,Hungaroring,"1:20.305",russell
+2024,Autodromo Enzo e Dino Ferrari,"1:18.589",russell
+2023,Baku City Circuit,"1:43.370",russell
+2022,Autódromo José Carlos Pace,"1:13.785",russell
+2022,Autódromo Hermanos Rodríguez,"1:20.153",russell
+2022,Circuit of the Americas,"1:38.788",russell
+2022,Marina Bay Street Circuit,"1:46.458",russell
+2020,Bahrain International Circuit,"0:55.404",russell
+2023,Circuit of the Americas,"1:38.139",tsunoda
+2023,Bahrain International Circuit,"1:33.996",zhou
+2022,Suzuka Circuit,"1:44.411",zhou
+2024,Miami International Autodrome,"1:30.634",piastri
+2023,Las Vegas Strip Street Circuit,"1:35.490",piastri
+2023,Autodromo Nazionale di Monza,"1:25.072",piastri
